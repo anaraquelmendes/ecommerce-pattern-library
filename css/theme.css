@@ -1,14 +1,15 @@
 :root {
-  --color-primary: goldenrod;
-  --color-primary-light: gold;
-  --color-secondary: lightcoral;
-  --color-accent: greenyellow;
-  --color-neutral-beige: #e2e2e2;
-  --color-whatever: peachpuff;
+  --color-primary: #efcb68;
+  --color-primary-light: #f3d991;
+  --color-secondary: #202120;
+  --color-secondary-light: #fff;
+  --color-accent: #6dd3ce;
+  --color-button: eaedeb;
+  --color-background: #e2e2e2;
 }
 
---font-primary: "Alegreya Sans", Trebuchet MS", Arial, sans-serif;
---font-secondary: "Source Code Pro", Menlo, Consolas, monospace;
+--font-primary: "Playfair Display", serif;
+--font-secondary: "Josefin Sans Light", san-serif;
 
 }
 
