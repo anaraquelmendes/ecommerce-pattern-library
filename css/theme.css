@@ -1,11 +1,9 @@
 :root {
-  --color-primary: #707070;
-  --color-primary-light: #ededed;
-  --color-secondary: #202120;
-  --color-secondary-light: #fff;
-  --color-accent: #6dd3ce;
-  --color-button: eaedeb;
-  --color-background: #e2e2e2;
+  --color-primary: #2ec4b6;
+  --color-primary-light: #cbf3f0;
+  --color-secondary: #707070;
+  --color-secondary-light: #ededed;
+  --color-accent: #e0a458;
 }
 
 --font-primary: "Playfair Display", serif;
