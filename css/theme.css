@@ -35,6 +35,7 @@ ol, {
 a {
   font-family: var(--font-primary);
   color: var(--color-secondary-dark);
+  text-decoration: none;
   transition: color .20s ease-in-out;
   transition-property: color;
   transition-duration: 0.20s;
