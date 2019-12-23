@@ -7,6 +7,6 @@ patternbot:
   font_url: "https://use.typekit.net/iha5xkn.css"
   rationales:
     typefaces.primary: |
-      Playfair Display Regular was chosen to be be used for all bodycopy because it is delicate as the site theme. In addition, it has high contrast features that ensure readability, even in small fonts.
+      Playfair Display Regular was chosen to be used for all bodycopy because it is delicate as the site theme. In addition, it has high contrast features that ensure readability, even in small fonts.
     typefaces.secondary: |
       Josefin Sans Light is to be used for all highlighting text such as headings, buttons, lists, and also footer.
