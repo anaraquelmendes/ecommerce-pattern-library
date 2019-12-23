@@ -6,7 +6,7 @@
   --color-accent: #e0a458;
   --color-accent-secondary: #f991cc;
   --font-primary: "Josefin Sans Light", san-serif;
-  --font-secondary: "Playfair Display", serif;
+  --font-secondary: "Josefin Sans Light", serif;
 }
 
 html {
@@ -19,18 +19,11 @@ h2, {
   color: var(--color-primary);
 }
 
-p{
+p {
   font-family: var(--font-secondary);
 }
 
 a {
   color: var(--color-secondary);
-  font-family: var(--font-primary);
-}
-
-
-}
-
-html {
   font-family: var(--font-primary);
 }
