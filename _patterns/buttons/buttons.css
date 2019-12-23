@@ -3,7 +3,6 @@
   border-color: var(--color-primary-dark);
   color: var(--color-secondary-dark);
   font-family: var(--font-secondary);
-
 }
 
 .btn:hover {
@@ -15,4 +14,33 @@
   background-color: transparent;
   border-color: var(--color-secondary-dark);
   color: var(--color-secondary-dark);
+}
+
+.btn-ghost:hover {
+  background-color: var(--color-secondary-light);
+  border-color: var(--color-secondary-light);
+}
+
+.btn-ghost-secondary {
+  background-color: transparent;
+  border-color: var(--color-accent);
+  color: var(--color-secondary-dark);
+}
+
+.btn-ghost-secondary:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-secondary-light);
+}
+
+.btn-ghost-terciary {
+  background-color: transparent;
+  border-color: var(--color-accent-secondary);
+  color: var(--color-secondary-dark);
+}
+
+.btn-ghost-terciary:hover {
+  background-color: var(--color-accent-secondary);
+  border-color: var(--color-accent-secondary);
+  color: var(--color-secondary-light);
 }
