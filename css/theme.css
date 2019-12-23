@@ -5,38 +5,38 @@
   --color-secondary-light: #ededed;
   --color-accent: #e0a458;
   --color-accent-secondary: #f991cc;
-  --font-primary: "Josefin Sans Light", san-serif;
-  --font-secondary: "Playfair Display Regular", serif;
+  --font-primary: "Playfair Display Regular", serif;
+  --font-secondary: "Josefin Sans Light", san-serif;
 }
 
 html {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
 }
 
 h1,
 h2,
 h3, {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   color: var(--color-primary);
 }
 
 p {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
 }
 
 ul,
 ol, {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   color: var(--color-secondary);
 }
 
 
 a {
-  color: var(--color-secondary);
   font-family: var(--font-primary);
+  color: var(--color-secondary);
 }
 
 .footer {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   color: var(--color-secondary);
 }
