@@ -6,7 +6,7 @@
   --color-accent: #e0a458;
   --color-accent-secondary: #f991cc;
   --font-primary: "Playfair Display Regular", serif;
-  --font-secondary: "Josefin Sans Light", Sans-serif;
+  --font-secondary: "Josefin Sans Light", sans-serif;
 }
 
 html {
@@ -22,6 +22,7 @@ h3, {
 
 p {
   font-family: var(--font-primary);
+  color: var(--color-secondary-dark);
 }
 
 ul,
