@@ -5,8 +5,16 @@ patternbot:
   description:
     Frame-it is a company based on creativity, passion and quality that provides printing products for nursery rooms.
   font_url: "https://use.typekit.net/iha5xkn.css"
+  colors:
+    background: "--color-secondary-light";
   rationales:
     typefaces.primary: |
       Playfair Display Regular was chosen to be used for all bodycopy because it is delicate as the site theme. In addition, it has high contrast features that ensure readability, even in small fonts.
     typefaces.secondary: |
       Josefin Sans Light is to be used for all highlighting text such as headings, buttons, lists, and also footer.
+    colors.primary: |
+      The primary colours are shades of blue-green. It was chosen because it represents friendship, love and patience. The darker shade is intended to be used for headings and hover states while the light one is meant for buttons.
+    colors.secondary: |
+      The secondary colours are two shades of grey. The colour secondary dark is meant to make the bodycopy and text in general readable. The secondary light will be used for backgrounds. As they are neutral colours they will enhance the artwork that will be sold.
+    colors.accent: |
+      The accent colours are magenta-pink and indian yellow. They can be used to enhance details and also for buttons that will not be repeated.

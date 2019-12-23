@@ -1,7 +1,7 @@
 :root {
-  --color-primary: #2ec4b6;
+  --color-primary-dark: #2ec4b6;
   --color-primary-light: #cbf3f0;
-  --color-secondary: #707070;
+  --color-secondary-dark: #707070;
   --color-secondary-light: #ededed;
   --color-accent: #e0a458;
   --color-accent-secondary: #f991cc;
@@ -17,7 +17,7 @@ h1,
 h2,
 h3, {
   font-family: var(--font-secondary);
-  color: var(--color-primary);
+  color: var(--color-primary-dark);
 }
 
 p {
@@ -27,16 +27,16 @@ p {
 ul,
 ol, {
   font-family: var(--font-secondary);
-  color: var(--color-secondary);
+  color: var(--color-secondary-dark);
 }
 
 
 a {
   font-family: var(--font-primary);
-  color: var(--color-secondary);
+  color: var(--color-secondary-dark);
 }
 
 .footer {
   font-family: var(--font-secondary);
-  color: var(--color-secondary);
+  color: var(--color-secondary-dark);
 }
