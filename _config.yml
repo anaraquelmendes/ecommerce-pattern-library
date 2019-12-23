@@ -6,8 +6,6 @@ patternbot:
     Frame-it is a company based on creativity, passion and quality that provides printing products for nursery rooms.
   font_url: "https://use.typekit.net/iha5xkn.css"
   colors:
-    background: "--color-secondary-light"
-    accent: "--color-accent"
     patterns:
       brand.logos: "--color-primary-light"
   rationales:
