@@ -14,7 +14,8 @@ html {
 }
 
 h1,
-h2, {
+h2,
+h3, {
   font-family: var(--font-primary);
   color: var(--color-primary);
 }
@@ -23,7 +24,19 @@ p {
   font-family: var(--font-secondary);
 }
 
+ul,
+ol, {
+  font-family: var(--font-primary);
+  color: var(--color-secondary);
+}
+
+
 a {
   color: var(--color-secondary);
   font-family: var(--font-primary);
+}
+
+.footer {
+  font-family: var(--font-primary);
+  color: var(--color-secondary);
 }
