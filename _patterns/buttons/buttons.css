@@ -14,6 +14,7 @@
   background-color: transparent;
   border-color: var(--color-secondary-dark);
   color: var(--color-secondary-dark);
+  font-family: var(--font-secondary);
 }
 
 .btn-ghost:hover {
@@ -25,6 +26,7 @@
   background-color: transparent;
   border-color: var(--color-accent);
   color: var(--color-secondary-dark);
+  font-family: var(--font-secondary);
 }
 
 .btn-ghost-secondary:hover {
@@ -37,10 +39,23 @@
   background-color: transparent;
   border-color: var(--color-accent-secondary);
   color: var(--color-secondary-dark);
+  font-family: var(--font-secondary);
 }
 
 .btn-ghost-terciary:hover {
   background-color: var(--color-accent-secondary);
   border-color: var(--color-accent-secondary);
   color: var(--color-secondary-light);
+}
+
+.basic-2 {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-primary-dark);
+  color: var(--color-secondary-dark);
+  font-family: var(--font-secondary);
+}
+
+.basic-2:hover {
+  background-color: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
 }

@@ -5,8 +5,8 @@
   --color-secondary-light: #ededed;
   --color-accent: #e0a458;
   --color-accent-secondary: #f991cc;
-  --font-primary: "Playfair Display", serif;
-  --font-secondary: "Josefin Sans", sans-serif;
+  --font-primary: playfair-display, serif;
+  --font-secondary: josefin-sans, sans-serif;
 }
 
 html {
