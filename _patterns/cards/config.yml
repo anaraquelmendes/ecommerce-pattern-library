@@ -1,0 +1,25 @@
+title: "Cards"
+description: |
+  Cards should be used to show the products that are being sold.
+
+patterns:
+
+  cart-card:
+    title: "Cart Card"
+    description: |
+      Cart cards are to be used on the checkout page.
+
+  product-detail-card:
+    title: "Product Detail Card"
+    description: |
+      Product detail cards are to be used on the product details page.
+
+  icon-card:
+    title: "Icon Card"
+    description: |
+      Icon cards are to be used on the company value section.
+
+  product-card:
+    title: "Product Card"
+    description: |
+      Product cards are to be used on the product list page.

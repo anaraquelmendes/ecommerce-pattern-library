@@ -1,13 +1,28 @@
 title: "Buttons"
 description: |
-Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
+  Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
 
-patterns: basic
-  title: "Basic"
+patterns:
+  basic:
+    title: "Basic"
     description: |
-    Basic buttons are to be used below each item in the product list page.
+      Basic buttons are to be used below each item on the product list page.
 
-patterns: basic-2
-  title: "Basic 2"
+
+  ghost-cancel:
+    title: "Ghost Cancel"
     description: |
-    Basic 2 buttons are to be used in the product details page.
+      Ghost Cancel buttons are to be used in the product details page and in the product list page.
+      They should be an alternative for the buyer who gives up the purchase. They redirect the users to the product list page.
+
+
+  ghost-secondary:
+    title: "Ghost Secondary"
+    description: |
+      Ghost Secondary buttons are to be used in the call-to-action banner and should redirect the  user to read about the product. It also can be used in article sections.
+
+
+  ghost-terciary:
+    title: "Ghost Terciary"
+    description: |
+      Ghost Terciary buttons are to be used on the checkout page.

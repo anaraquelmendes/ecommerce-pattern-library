@@ -1,0 +1,19 @@
+title: "Forms"
+description: |
+  Forms should ge used to input pieces of information about the users or the product preferences.
+
+patterns:
+  basic-input:
+    title: "Basic Input"
+    description: |
+      Basic inputs are for direct text information.
+
+  email-form:
+    title: "E-mail Form"
+    description: |
+      E-mail forms are for email addresses.
+
+  phone-form:
+    title: "Phone Form"
+    description: |
+      Phone forms are for telephone numbers.
