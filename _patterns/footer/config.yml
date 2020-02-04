@@ -1,0 +1,5 @@
+patterns:
+  footer:
+    title: "footer"
+    description: |
+      Fotter sits at the bottom of each page of the company website.
