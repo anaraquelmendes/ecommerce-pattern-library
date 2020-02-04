@@ -1,9 +1,14 @@
 title: "Banners"
 description: |
-  In order to direct the users' eyes to the artwork, the banners have white backgrounds.
+  In order to direct the users' eyes to the artwork, the banners have dark-yellow backgrounds and white text.
 
 patterns:
   call-to-action-banner:
     title: "call-to-action-banner"
     description: |
       There is only one Call-to-action banner at the homepage. There are two buttons on it.
+
+  promo-banner:
+    title: "promo-banner"
+    description: |
+      Promo banners are used to announce sales.

@@ -1,0 +1,9 @@
+.promo-banner {
+  font-family: var(--font-secondary);
+  background-color: var(--color-accent);
+  color: #fff;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}

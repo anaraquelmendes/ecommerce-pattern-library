@@ -1,0 +1,9 @@
+title: "Header"
+description: |
+  The header sits at the top of each page and provides a place for the company logo and the navigation bar.
+
+patterns:
+  footer:
+    title: "footer"
+    description: |
+      Fotter sits at the bottom of each page of the company website.

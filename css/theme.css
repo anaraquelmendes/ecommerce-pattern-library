@@ -13,6 +13,10 @@ html {
   font-family: var(--font-secondary);
 }
 
+.font-secondary {
+  font-family: var(--font-secondary);
+}
+
 h1,
 h2,
 h3, {

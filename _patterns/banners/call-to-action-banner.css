@@ -1,3 +1,13 @@
 .call-to-action-banner {
+  background: url("../../images/call-to-action-banner.png") center / cover no-repeat;
+  height: 500px;
+  width: 100%;
+}
 
+.call-to-action-content {
+  font-family: var(--font-secondary);
+  background-color: rgba(255, 255, 255, 0.8);
+  bottom: 3em;
+  width: 100%;
+  color: var(--color-secondary-dark);
 }

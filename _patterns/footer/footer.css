@@ -1,0 +1,23 @@
+nav ul li a:hover {
+  background-color: #334255;
+  color: #fff;
+}
+
+footer ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+footer a {
+  text-decoration: none;
+  color: darkgrey;
+}
+
+footer {
+  color: #c3c3c3;
+}
+
+footer a:hover,
+footer a:focus {
+  border-bottom: 1px solid darkgrey;
+}

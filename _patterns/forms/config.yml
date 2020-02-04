@@ -17,3 +17,8 @@ patterns:
     title: "Phone Form"
     description: |
       Phone forms are for telephone numbers.
+
+  credit-card-form:
+    title: "Credit Card Form"
+    description: |
+      Credit card forms are for credit card information.
