@@ -1,23 +1,22 @@
-nav ul li a:hover {
-  background-color: #334255;
-  color: #fff;
-}
-
 footer ul {
   list-style-type: none;
   text-decoration: none;
+  font-family: var(--font-secondary);
 }
 
 footer a {
   text-decoration: none;
-  color: darkgrey;
+  color: --var(--color-secondary-dark);
+  font-family: var(--font-secondary);
 }
 
-footer {
-  color: #c3c3c3;
+.footer {
+  background-color: --var(--color-secondary-light);
+  font-family: var(--font-secondary);
+
 }
 
-footer a:hover,
-footer a:focus {
-  border-bottom: 1px solid darkgrey;
+ul li a:hover {
+  background-color: --var(--color-primary-dark)
+  text-decoration: underline;
 }
