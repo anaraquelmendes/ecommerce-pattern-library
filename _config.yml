@@ -1,6 +1,9 @@
 permalink: pretty
 theme: jekyll_patternbot
 patternbot:
+  layouts:
+    default: |
+    The default layout can be used for almost every page. It includes the website's primary header and footer.
   title: "frame-it studio"
   description:
     Frame-it is a company based on creativity, passion and quality that provides printing products for nursery rooms.
